@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=My Product
+Comment=A ToolBox application
+# The Exec line includes %u to pass the URL to the application
+Exec=/usr/local/bin/toolbox.exe %u
+Terminal=false
+Type=Application
+Icon=toolbox.exe
+Categories=Utility;
+StartupWMClass=toolbox.exe
+
+ 

@@ -1,0 +1,16 @@
+.task
+bin
+# 构建产物（根目录遗留副本）
+/changeme.exe
+# IDE / 工具本机配置
+/.idea
+.claude/settings.local.json
+frontend/dist
+frontend/node_modules
+build/linux/appimage/build
+build/windows/nsis/MicrosoftEdgeWebview2Setup.exe
+# Mobile generated (per-machine; overlays hold absolute paths)
+build/ios/xcode/overlay.json
+build/ios/xcode/gen/
+build/android/overlay.json
+build/android/gen/

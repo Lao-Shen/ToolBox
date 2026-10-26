@@ -1,0 +1,15 @@
+{
+	"fixed": {
+		"file_version": "1.3.0"
+	},
+	"info": {
+		"0000": {
+			"Comments": "This is a comment",
+			"CompanyName": "My Company",
+			"FileDescription": "A ToolBox application",
+			"LegalCopyright": "© 2026, My Company",
+			"ProductName": "My Product",
+			"ProductVersion": "1.3.0"
+		}
+	}
+}

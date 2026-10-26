@@ -1,0 +1,20 @@
+{
+  "name": "ToolBox",
+  "fullname": "toolbox",
+  "icon": "build/appicon.png",
+  "docs": [
+    "README.md",
+    "CLAUDE.md",
+    "docs/TODO.md",
+    "docs/注册表.md"
+  ],
+  "changelog": "changelog.txt",
+  "build": [
+    "wails3 build"
+  ],
+  "outputs": [
+    "bin"
+  ],
+  "release-name": "ToolBox",
+  "binary": "bin/ToolBox.exe"
+}
